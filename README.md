@@ -1,5 +1,3 @@
-# Medibuddy: Smart Disease Predictor
-
 ## Sample images of the web application
 
 ### Home Page
